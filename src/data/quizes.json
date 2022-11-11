@@ -61,31 +61,31 @@
     "questions": [
       {
         "id": 1,
-        "text": "8 / 2(2 + 2)",
+        "text": "10 / 2(2 + 5)",
         "options": [
           {
             "id": 1,
             "label": "A",
-            "text": "16",
+            "text": "13",
             "isCorrect": true
           },
           {
             "id": 1,
             "label": "B",
-            "text": "8",
+            "text": "22",
             "isCorrect": true
           },
           {
             "id": 1,
             "label": "C",
-            "text": "6",
+            "text": "17",
             "isCorrect": true
           }
         ]
       },
       {
         "id": 2,
-        "text": "34 / 2(2 + 2)",
+        "text": "3 / 2(2 + 2)",
         "options": [
           {
             "id": 1,
